@@ -30,14 +30,7 @@ export default function Release() {
       </div>
       <div className="release green">
         <div className="card-container">
-          <Card
-            image={release2}
-            series="Gloop Series"
-            title="Purple Man"
-            price={3.95}
-            tag="1094"
-            time={2}
-          />
+        <img src={release2} alt="release" height={585} width={585} />
           <div className="ellipse orange"></div>
         </div>
         <div className="content">

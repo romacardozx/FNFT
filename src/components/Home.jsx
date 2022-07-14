@@ -8,10 +8,9 @@ export default function Home() {
           <p className="sub-title">Launching Soon</p>
           <h1 className="title">A new way to be a fan!</h1>
           <p className="description">
-            Don't miss out on the release of our new NFT. Sign up below to
-            recieve updates when we go live.
+          Become a true fan with collectibles of your favourite teams!
           </p>
-          <button>Sign Up</button>
+          <button>mint our NFT's</button>
         </div>
         <div className="image-container">
           <div className="image">
