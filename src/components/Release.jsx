@@ -10,10 +10,7 @@ export default function Release() {
       <div className="release orange">
         <div className="content">
           <h2 className="title">Que obtienen los hinchas (NFT Holders)?</h2>
-          <p className="description">
-            We have released four limited edition NFTs early which can be bid on
-            via <a href="#">OpenSea</a>
-          </p>
+
           <p className="description">
           Acceso a sorteos exclusivos - entradas, indumentaria, etc..
           Acceso exclusivo a descuentos en el fan store

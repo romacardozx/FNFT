@@ -18,6 +18,8 @@ export default function Free() {
           </div>
           <h2 className="title">Nuestra idea</h2>
           <p className="description">
+          </p>
+          <p className="description">
           FaNFTics intenta revolucionar el fanatismo y la manera en la cual los fans interaccionan con sus equipos. 
 El proyecto cuenta con múltiples objetivos, pero siempre con la idea centrada en la utilidad que le vamos a ofrecer a los NFT holders de cada club. 
 

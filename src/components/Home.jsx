@@ -5,10 +5,10 @@ export default function Home() {
     <div className="home">
       <div className="container">
         <div className="content">
-          <p className="sub-title">Launching Soon</p>
-          <h1 className="title">A new way to be a fan!</h1>
+          <p className="sub-title">FANFTICS</p>
+          <h1 className="title">Defini tu fanatismo!</h1>
           <p className="description">
-          Become a true fan with collectibles of your favourite teams!
+          Una nueva manera de conectar a los fanáticos con su club 
           </p>
           <button>mint our NFT's</button>
         </div>
