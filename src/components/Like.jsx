@@ -13,8 +13,11 @@ export default function Like() {
           <h2 className="title">Porque NFTs?</h2>
           <p className="description">
           Los NFTs poseen una oferta más limitada en comparación de las tokens, lo que da a un producto de mayor exclusividad.
+          <br />
           Se puede crear una comunidad detrás.
+          <br />
           No necesitan mantenimiento, ni liquidez.
+          <br />
           Producto coleccionable, más visible.
           </p>
         </div>
