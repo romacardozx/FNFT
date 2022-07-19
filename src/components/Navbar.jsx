@@ -38,10 +38,7 @@ export default function Navbar({ changeTheme, currentTheme }) {
             <a href="#about">About</a>
           </li>
           <li>
-            <a href="#launch">Launch</a>
-          </li>
-          <li>
-            <a href="#signup">Signup</a>
+            <a href="#launch">Marketplace</a>
           </li>
           <li onClick={changeTheme}>
             {currentTheme === "dark" ? (
