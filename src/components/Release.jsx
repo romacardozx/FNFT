@@ -9,16 +9,20 @@ export default function Release() {
     <div className="releases">
       <div className="release orange">
         <div className="content">
-          <h2 className="title">Initial Release 4/11</h2>
+          <h2 className="title">Que obtienen los hinchas (NFT Holders)?</h2>
           <p className="description">
             We have released four limited edition NFTs early which can be bid on
             via <a href="#">OpenSea</a>
           </p>
           <p className="description">
-            There will be the only four of these NFTs we ever make, so be sure
-            not to miss out!
+          Acceso a sorteos exclusivos - entradas, indumentaria, etc..
+          Acceso exclusivo a descuentos en el fan store
+          Meet & greet con los jugadores
+          Acceso a los entrenamientos
+          Acceso a grupos exclusivos (discord, telegram, Whatsapp - foro exclusivo en donde se pueden discutir y votar ciertos temas ligados al club.)
+          Una nueva manera de relacionarse con el club
           </p>
-          <p className="description">50% of proceeds go to charity.</p>
+          <p className="description"></p>
           <a href="#" className="link">
             Check them out <BsArrowRight />
           </a>
