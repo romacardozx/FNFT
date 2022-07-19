@@ -26,28 +26,7 @@ El proyecto cuenta con múltiples objetivos, pero siempre con la idea centrada e
           </p>
         </div>
       </div>
-      <div className="cards">
-        <div className="card1">
-          <Card
-            image={super1}
-            series="Gloop Series"
-            title="Purple Man"
-            price={2.99}
-            tag={12983}
-            time={1}
-          />
-        </div>
-        <div className="card2">
-          <Card
-            image={super3}
-            series="Gloop Series"
-            title="Purple Man"
-            price={3.95}
-            tag="1094"
-            time={2}
-          />
-        </div>
-      </div>
+     
     </div>
   );
 }
